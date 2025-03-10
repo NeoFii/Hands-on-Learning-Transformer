@@ -1,6 +1,6 @@
 # **动手学Transformer**
 
-简体中文 | [English](./README_en.md)
+简体中文 | [English](./README-en.md)
 
 ## **🚀 项目简介**
 
